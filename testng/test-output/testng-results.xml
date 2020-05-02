@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="90333" started-at="2020-05-02T18:42:04 BRT" finished-at="2020-05-02T18:43:35 BRT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="90333" started-at="2020-05-02T18:42:04 BRT" finished-at="2020-05-02T18:43:35 BRT">
+      <class name="testng.GoogleSearchTests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="setup" is-config="true" duration-ms="7514" started-at="2020-05-02T18:42:05 BRT" finished-at="2020-05-02T18:42:12 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pesquisaNoGoogle(java.lang.String)[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="pesquisaNoGoogle" duration-ms="1731" started-at="2020-05-02T18:42:12 BRT" data-provider="getTestData" finished-at="2020-05-02T18:42:14 BRT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lobo]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pesquisaNoGoogle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="tearDown" is-config="true" duration-ms="4339" started-at="2020-05-02T18:42:14 BRT" finished-at="2020-05-02T18:42:18 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="setup" is-config="true" duration-ms="6636" started-at="2020-05-02T18:42:18 BRT" finished-at="2020-05-02T18:42:25 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pesquisaNoGoogle(java.lang.String)[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="pesquisaNoGoogle" duration-ms="1802" started-at="2020-05-02T18:42:25 BRT" data-provider="getTestData" finished-at="2020-05-02T18:42:27 BRT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[alce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pesquisaNoGoogle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="tearDown" is-config="true" duration-ms="4323" started-at="2020-05-02T18:42:27 BRT" finished-at="2020-05-02T18:42:31 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="setup" is-config="true" duration-ms="5983" started-at="2020-05-02T18:42:31 BRT" finished-at="2020-05-02T18:42:37 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pesquisaNoGoogle(java.lang.String)[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="pesquisaNoGoogle" duration-ms="1905" started-at="2020-05-02T18:42:37 BRT" data-provider="getTestData" finished-at="2020-05-02T18:42:39 BRT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[leões]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pesquisaNoGoogle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="tearDown" is-config="true" duration-ms="4324" started-at="2020-05-02T18:42:39 BRT" finished-at="2020-05-02T18:42:43 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="setup" is-config="true" duration-ms="6560" started-at="2020-05-02T18:42:43 BRT" finished-at="2020-05-02T18:42:50 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pesquisaNoGoogle(java.lang.String)[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="pesquisaNoGoogle" duration-ms="1777" started-at="2020-05-02T18:42:50 BRT" data-provider="getTestData" finished-at="2020-05-02T18:42:52 BRT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[elefantes]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pesquisaNoGoogle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="tearDown" is-config="true" duration-ms="4079" started-at="2020-05-02T18:42:52 BRT" finished-at="2020-05-02T18:42:56 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="setup" is-config="true" duration-ms="6612" started-at="2020-05-02T18:42:56 BRT" finished-at="2020-05-02T18:43:02 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pesquisaNoGoogle(java.lang.String)[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="pesquisaNoGoogle" duration-ms="1789" started-at="2020-05-02T18:43:02 BRT" data-provider="getTestData" finished-at="2020-05-02T18:43:04 BRT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[marmotas]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pesquisaNoGoogle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="tearDown" is-config="true" duration-ms="4320" started-at="2020-05-02T18:43:04 BRT" finished-at="2020-05-02T18:43:09 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="setup" is-config="true" duration-ms="6773" started-at="2020-05-02T18:43:09 BRT" finished-at="2020-05-02T18:43:15 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pesquisaNoGoogle(java.lang.String)[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="pesquisaNoGoogle" duration-ms="1941" started-at="2020-05-02T18:43:15 BRT" data-provider="getTestData" finished-at="2020-05-02T18:43:17 BRT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cachorros]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pesquisaNoGoogle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="tearDown" is-config="true" duration-ms="4325" started-at="2020-05-02T18:43:17 BRT" finished-at="2020-05-02T18:43:22 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="setup" is-config="true" duration-ms="6769" started-at="2020-05-02T18:43:22 BRT" finished-at="2020-05-02T18:43:28 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pesquisaNoGoogle(java.lang.String)[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="pesquisaNoGoogle" duration-ms="1927" started-at="2020-05-02T18:43:28 BRT" data-provider="getTestData" finished-at="2020-05-02T18:43:30 BRT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gatos]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pesquisaNoGoogle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testng.GoogleSearchTests@1877ab81]" name="tearDown" is-config="true" duration-ms="4323" started-at="2020-05-02T18:43:30 BRT" finished-at="2020-05-02T18:43:35 BRT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.GoogleSearchTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
